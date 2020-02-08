@@ -31,5 +31,41 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
-
 /*End navigation*/
+
+/*Start Banner area*/
+
+.site-main .site-banner{
+    background: url(../img/home-banner.png) no-repeat; /*Imagem plano de fundo banner*/
+    background-position: 0% 50%;
+}
+
+.site-main .site-banner .site-title h3{
+    padding-top: 20%;
+    font-weight: 500; /*Deixa negrito*/
+}
+
+.site-main .site-banner .site-title h3:after{
+    content: "";
+    height: 2px;
+    width: 18vw;
+    background-color: black;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.site-main .site-banner .site-title h4{
+    font-size: 1.5rem;
+}
+
+/*Controle do tamanho da imagem*/
+/*.site-main .site-banner .banner-images>img{
+    padding: 7rem;
+    width: 90rem;
+}*/
+
+.title-text{
+    font: normal bold 30px/40px var(--times);
+}
+
+/*End banner area*/
