@@ -3,6 +3,9 @@
 /*Css variables*/
 @import url(./partials/_variables.css);
 
+/*Global styling*/
+@import url(partials/global.css);
+
 /*Start navigation*/
 .header_area .main-menu .navbar .navbar-brand{
     padding: 0 1rem 0 3rem;
@@ -13,7 +16,7 @@
 }
 
 .header_area .main-menu .nav-link{
-    font: normal 500 15px/2px var(--times);/*font-style; font-weight, font-size, line-height, color(--times)*/
+    font: normal 500 15px/2px var(--arial);/*font-style; font-weight, font-size, line-height, color(--times)*/
     text-transform: uppercase;
     padding: 1rem;
 }
@@ -63,9 +66,4 @@
     padding: 7rem;
     width: 90rem;
 }*/
-
-.title-text{
-    font: normal bold 30px/40px var(--times);
-}
-
 /*End banner area*/
