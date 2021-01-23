@@ -57,7 +57,7 @@ footer{
 /*header*/
 
 header{
-    background-color: #D43F52;
+    background-color: #4b1f9c;
     text-transform: uppercase;
     font-weight: bold;
     color: #FFF;
@@ -159,7 +159,7 @@ header .container{
 }
 
 #banner h1{
-    color: #D43F52;
+    color: #4b1f9c;
     font-size: 60px;
     animation-delay: 0.4s;
     line-height: 55px;
@@ -203,7 +203,7 @@ header .container{
 
 #about h3,
 #about strong{
-    color: #D43F52;
+    color: #4b1f9c;
 }
 
 #about p{
@@ -223,19 +223,19 @@ header .container{
     margin-top: 30px;
     text-decoration: none;
     font-weight: bold;
-    color: #D43F52;
+    color: #4b1f9c;
     text-transform: uppercase;
     letter-spacing: 2.5px;
     font-size: 19px;
     padding: 15px 30px;
-    border: 2px solid #D43F52;
+    border: 2px solid #4b1f9c;
     transition: 0.2s;
     max-height: 100vh;
     text-align: center;
 }
 
 #about a:hover{
-    background-color: #D43F52;
+    background-color: #4b1f9c;
     color: #FFF;
 }
 
@@ -289,7 +289,7 @@ header .container{
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    background-color: #D43F52;
+    background-color: #4b1f9c;
 }
 
 .iconHolder img{
@@ -526,7 +526,7 @@ footer{
 }
 
 footer a{
-    color: #D43F52;
+    color: #4b1f9c;
 }
 
 .copyright{
@@ -551,7 +551,7 @@ footer a{
         position: absolute;
         top: 80px;
         left: 0;
-        background-color: #D43F52;
+        background-color: #4b1f9c;
         padding: 0 15px;
     }
 
